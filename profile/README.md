@@ -6,7 +6,7 @@ About
 
 
 # Who we are
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0c9FGJamY9k?si=nyuz8wMPRDnKGMD5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hello. We're Fiction Tribe. We believe that creative matters—that when everyone is doing the same thing, doing something different is paramount.  
 
 We combine technology, storytelling, strategy, art, and film to help brands big and small connect with audiences in a way that moves them. Take a look at some of the things we’ve helped create, who we work with, and let's talk.
