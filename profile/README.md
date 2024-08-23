@@ -1,8 +1,8 @@
 # .github
-About
 # F I C T I O N   T R I B E°
 
 
+https://github.com/user-attachments/assets/bb738d54-611a-432f-aaba-716b0427b457
 
 
 # Who we are
